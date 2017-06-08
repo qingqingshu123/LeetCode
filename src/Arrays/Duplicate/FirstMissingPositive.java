@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Duplicate;
 
 import java.util.HashSet;
 
