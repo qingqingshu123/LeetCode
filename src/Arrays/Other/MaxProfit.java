@@ -1,5 +1,7 @@
 package Arrays.Other;
 
+import java.util.LinkedList;
+
 /**
  * Created by jixiaoqiang on 2017/6/8.
  */
