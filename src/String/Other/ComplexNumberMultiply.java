@@ -1,4 +1,4 @@
-package String;
+package String.Other;
 
 /**
  * Created by jixiaoqiang on 2017/6/12.
